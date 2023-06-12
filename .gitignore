@@ -1,1 +1,6 @@
-/aclImdb/*
+.ipynb_checkpoints/*
+aclImdb/*
+data/*
+models/*
+plots/*
+runs/*

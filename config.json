@@ -1,0 +1,18 @@
+{
+    "val_size": 0.25,
+    
+    "lm_vocab_size": 15000,
+    "lm_sample_size": 10000,
+    "lm_max_sequence_len": 60,
+    "lm_batch_size": 256,
+    "lm_embedding_dim": 300,
+    "lm_hidden_dim": 600,
+    "lm_num_layers": 1,
+    "lm_epochs": 10,
+    
+    "clf_batch_size": 256,
+    "clf_embeddings": "glove-wiki-gigaword-300",
+    "clf_hidden_dim": 600,
+    "clf_num_layers": 2,
+    "clf_epochs": 10
+}
